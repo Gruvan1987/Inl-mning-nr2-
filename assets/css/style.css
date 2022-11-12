@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Condensed:wght@300&display=swap');
 
 header h1{
     background-color: rgb(77, 150, 166);
-    color: white;
+    color: black;
     text-align: center;
     height: 60px;
+    line-height: 50px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 footer{
@@ -15,19 +18,22 @@ footer{
     min-height: 80px;
     padding-top: 5px;
     text-align: center;
-    color: #fff;
+    color: black;
     background-color:  rgb(77, 150, 166);
-
+    font-family: 'Open Sans', sans-serif;
 }
+
 
 h2{
     text-align: center;
-    color: #fff;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1{
     text-align: center;
     color: rgb(77, 150, 166);
+    font-family: 'Open Sans', sans-serif;
 }
 
 .choice{
@@ -36,6 +42,7 @@ h1{
 }
 #theGame{
     text-align: center;
+    line-height: 35px;
 }
 #playerText{
     color:  blue;
