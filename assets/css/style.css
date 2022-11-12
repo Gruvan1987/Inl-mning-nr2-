@@ -1,0 +1,46 @@
+
+header h1{
+    background-color: rgb(77, 150, 166);
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+
+footer{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    min-height: 80px;
+    padding-top: 5px;
+    text-align: center;
+    color: #fff;
+    background-color:  rgb(77, 150, 166);
+
+}
+
+h2{
+    text-align: center;
+    color: #fff;
+}
+
+h1{
+    text-align: center;
+    color: rgb(77, 150, 166);
+}
+
+.choice{
+    line-height: 30px;
+    width: 150px;
+}
+#theGame{
+    text-align: center;
+}
+#playerText{
+    color:  blue;
+}
+#computerText{
+    color: red;
+}
+
